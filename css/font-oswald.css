@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: "OswaldLight";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../font/Oswald-Light-webfont.eot?#iefix") format("embedded-opentype"), url("../font/Oswald-Light-webfont.woff") format("woff"), url("../font/Oswald-Light-webfont.ttf") format("truetype"), url("../font/Oswald-Light-webfont.svg#OswaldLight") format("svg");
+}
+@font-face {
+    font-family: "OswaldBook";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../font/Oswald-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("../font/Oswald-Regular-webfont.woff") format("woff"), url("../font/Oswald-Regular-webfont.ttf") format("truetype"), url("../font/Oswald-Regular-webfont.svg#OswaldBook") format("svg");
+}
+@font-face {
+    font-family: "OswaldBold";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../font/Oswald-Bold-webfont.eot?#iefix") format("embedded-opentype"), url("../font/Oswald-Bold-webfont.woff") format("woff"), url("../font/Oswald-Bold-webfont.ttf") format("truetype"), url("../font/Oswald-Bold-webfont.svg#OswaldBold") format("svg");
+}
+@font-face {
+    font-family: "OswaldStencilRegular";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../font/Oswald-Stencil-webfont.eot?#iefix") format("embedded-opentype"), url("../font/Oswald-Stencil-webfont.woff") format("woff"), url("../font/Oswald-Stencil-webfont.ttf") format("truetype"), url("../font/Oswald-Stencil-webfont.svg#OswaldStencilRegular") format("svg");
+}
